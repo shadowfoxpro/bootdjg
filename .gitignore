@@ -1,0 +1,352 @@
+# Created by .ignore support plugin (hsz.mobi)
+### Example user template template
+### Example user template
+
+# IntelliJ project files
+.idea
+*.iml
+out
+gen
+### Python template
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# PyInstaller
+#  Usually these files are written by a python script from a template
+#  before PyInstaller builds the exe, so as to inject date/other infos into it.
+*.manifest
+*.spec
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+
+# Translations
+*.mo
+*.pot
+
+# Django stuff:
+*.log
+.static_storage/
+.media/
+local_settings.py
+
+# Flask stuff:
+instance/
+.webassets-cache
+
+# Scrapy stuff:
+.scrapy
+
+# Sphinx documentation
+docs/_build/
+
+# PyBuilder
+target/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# pyenv
+.python-version
+
+# celery beat schedule file
+celerybeat-schedule
+
+# SageMath parsed files
+*.sage.py
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Spyder project settings
+.spyderproject
+.spyproject
+
+# Rope project settings
+.ropeproject
+
+# mkdocs documentation
+/site
+
+# mypy
+.mypy_cache/
+### Example user template template
+### Example user template
+
+# IntelliJ project files
+.idea/inspectionProfiles/
+.idea/vcs.xml
+templates/
+venv/Lib/site-packages/django/contrib/gis/locale/bs/
+venv/Lib/site-packages/django/contrib/gis/locale/ca/
+venv/Lib/site-packages/django/contrib/gis/locale/cs/
+venv/Lib/site-packages/django/contrib/gis/locale/cy/
+venv/Lib/site-packages/django/contrib/gis/locale/da/
+venv/Lib/site-packages/django/contrib/gis/locale/de/
+venv/Lib/site-packages/django/contrib/gis/locale/dsb/
+venv/Lib/site-packages/django/contrib/gis/locale/el/
+venv/Lib/site-packages/django/contrib/gis/locale/en/
+venv/Lib/site-packages/django/contrib/gis/locale/en_AU/
+venv/Lib/site-packages/django/contrib/gis/locale/en_GB/
+venv/Lib/site-packages/django/contrib/gis/locale/eo/
+venv/Lib/site-packages/django/contrib/gis/locale/es/
+venv/Lib/site-packages/django/contrib/gis/locale/es_AR/
+venv/Lib/site-packages/django/contrib/gis/locale/es_CO/
+venv/Lib/site-packages/django/contrib/gis/locale/es_MX/
+venv/Lib/site-packages/django/contrib/gis/locale/es_VE/
+venv/Lib/site-packages/django/contrib/gis/locale/et/
+venv/Lib/site-packages/django/contrib/gis/locale/eu/
+venv/Lib/site-packages/django/contrib/gis/locale/fa/
+venv/Lib/site-packages/django/contrib/gis/locale/fi/
+venv/Lib/site-packages/django/contrib/gis/locale/fr/
+venv/Lib/site-packages/django/contrib/gis/locale/fy/
+venv/Lib/site-packages/django/contrib/gis/locale/ga/
+venv/Lib/site-packages/django/contrib/gis/locale/gd/
+venv/Lib/site-packages/django/contrib/gis/locale/gl/
+venv/Lib/site-packages/django/contrib/gis/locale/he/
+venv/Lib/site-packages/django/contrib/gis/locale/hi/
+venv/Lib/site-packages/django/contrib/gis/locale/hr/
+venv/Lib/site-packages/django/contrib/gis/locale/hsb/
+venv/Lib/site-packages/django/contrib/gis/locale/hu/
+venv/Lib/site-packages/django/contrib/gis/locale/ia/
+venv/Lib/site-packages/django/contrib/gis/locale/id/
+venv/Lib/site-packages/django/contrib/gis/locale/io/
+venv/Lib/site-packages/django/contrib/gis/locale/is/
+venv/Lib/site-packages/django/contrib/gis/locale/it/
+venv/Lib/site-packages/django/contrib/gis/locale/ja/
+venv/Lib/site-packages/django/contrib/gis/locale/ka/
+venv/Lib/site-packages/django/contrib/gis/locale/kk/
+venv/Lib/site-packages/django/contrib/gis/locale/km/
+venv/Lib/site-packages/django/contrib/gis/locale/kn/
+venv/Lib/site-packages/django/contrib/gis/locale/ko/
+venv/Lib/site-packages/django/contrib/gis/locale/lb/
+venv/Lib/site-packages/django/contrib/gis/locale/lt/
+venv/Lib/site-packages/django/contrib/gis/locale/lv/
+venv/Lib/site-packages/django/contrib/gis/locale/mk/
+venv/Lib/site-packages/django/contrib/gis/locale/ml/
+venv/Lib/site-packages/django/contrib/gis/locale/mn/
+venv/Lib/site-packages/django/contrib/gis/locale/mr/
+venv/Lib/site-packages/django/contrib/gis/locale/my/
+venv/Lib/site-packages/django/contrib/gis/locale/nb/
+venv/Lib/site-packages/django/contrib/gis/locale/ne/
+venv/Lib/site-packages/django/contrib/gis/locale/nl/
+venv/Lib/site-packages/django/contrib/gis/locale/nn/
+venv/Lib/site-packages/django/contrib/gis/locale/os/
+venv/Lib/site-packages/django/contrib/gis/locale/pa/
+venv/Lib/site-packages/django/contrib/gis/locale/pl/
+venv/Lib/site-packages/django/contrib/gis/locale/pt/
+venv/Lib/site-packages/django/contrib/gis/locale/pt_BR/
+venv/Lib/site-packages/django/contrib/gis/locale/ro/
+venv/Lib/s
+ite-packages/django/contrib/gis/locale/ru/
+venv/Lib/site-packages/django/contrib/gis/locale/sk/
+venv/Lib/site-packages/django/contrib/gis/locale/sl/
+venv/Lib/site-packages/django/contrib/gis/locale/sq/
+venv/Lib/site-packages/django/contrib/gis/locale/sr/
+venv/Lib/site-packages/django/contrib/gis/locale/sr_Latn/
+venv/Lib/site-packages/django/contrib/gis/locale/sv/
+venv/Lib/site-packages/django/contrib/gis/locale/sw/
+venv/Lib/site-packages/django/contrib/gis/locale/ta/
+venv/Lib/site-packages/django/contrib/gis/locale/te/
+venv/Lib/site-packages/django/contrib/gis/locale/th/
+venv/Lib/site-packages/django/contrib/gis/locale/tr/
+venv/Lib/site-packages/django/contrib/gis/locale/tt/
+venv/Lib/site-packages/django/contrib/gis/locale/udm/
+venv/Lib/site-packages/django/contrib/gis/locale/uk/
+venv/Lib/site-packages/django/contrib/gis/locale/ur/
+venv/Lib/site-packages/django/contrib/gis/locale/vi/
+venv/Lib/site-packages/django/contrib/gis/locale/zh_Hans/
+venv/Lib/site-packages/django/contrib/gis/locale/zh_Hant/
+venv/Lib/site-packages/django/contrib/gis/management/
+venv/Lib/site-packages/django/contrib/gis/measure.py
+venv/Lib/site-packages/django/contrib/gis/ptr.py
+venv/Lib/site-packages/django/contrib/gis/serializers/
+venv/Lib/site-packages/django/contrib/gis/shortcuts.py
+venv/Lib/site-packages/django/contrib/gis/sitemaps/
+venv/Lib/site-packages/django/contrib/gis/static/
+venv/Lib/site-packages/django/contrib/gis/templates/
+venv/Lib/site-packages/django/contrib/gis/utils/
+venv/Lib/site-packages/django/contrib/gis/views.py
+venv/Lib/site-packages/django/contrib/humanize/
+venv/Lib/site-packages/django/contrib/messages/
+venv/Lib/site-packages/django/contrib/postgres/
+venv/Lib/site-packages/django/contrib/redirects/
+venv/Lib/site-packages/django/contrib/sessions/
+venv/Lib/site-packages/django/contrib/sitemaps/
+venv/Lib/site-packages/django/contrib/sites/
+venv/Lib/site-packages/django/contrib/staticfiles/
+venv/Lib/site-packages/django/contrib/syndication/
+venv/Lib/site-packages/django/core/
+venv/Lib/site-packages/django/db/
+venv/Lib/site-packages/django/dispatch/
+venv/Lib/site-packages/django/forms/
+venv/Lib/site-packages/django/http/
+venv/Lib/site-packages/django/middleware/
+venv/Lib/site-packages/django/shortcuts.py
+venv/Lib/site-packages/django/template/
+venv/Lib/site-packages/django/templatetags/
+venv/Lib/site-packages/django/test/
+venv/Lib/site-packages/django/urls/
+venv/Lib/site-packages/django/utils/
+venv/Lib/site-packages/django/views/
+venv/Lib/site-packages/easy_install.py
+venv/Lib/site-packages/pip-9.0.1.dist-info/
+venv/Lib/site-packages/pip/__init__.py
+venv/Lib/site-packages/pip/__main__.py
+venv/Lib/site-packages/pip/__pycache__/
+venv/Lib/site-packages/pip/_vendor/__init__.py
+venv/Lib/site-packages/pip/_vendor/__pycache__/
+venv/Lib/site-packages/pip/_vendor/appdirs.py
+venv/Lib/site-packages/pip/_vendor/cachecontrol/
+venv/Lib/site-packages/pip/_vendor/colorama/
+venv/Lib/site-packages/pip/_vendor/distlib/__init__.py
+venv/Lib/site-packages/pip/_vendor/distlib/__pycache__/
+venv/Lib/site-packages/pip/_vendor/distlib/_backport/
+venv/Lib/site-packages/pip/_vendor/distlib/compat.py
+venv/Lib/site-packages/pip/_vendor/distlib/database.py
+venv/Lib/site-packages/pip/_vendor/distlib/index.py
+Would rem
+ove venv/Lib/site-packages/pip/_vendor/distlib/locators.py
+venv/Lib/site-packages/pip/_vendor/distlib/manifest.py
+venv/Lib/site-packages/pip/_vendor/distlib/markers.py
+venv/Lib/site-packages/pip/_vendor/distlib/metadata.py
+venv/Lib/site-packages/pip/_vendor/distlib/resources.py
+venv/Lib/site-packages/pip/_vendor/distlib/scripts.py
+venv/Lib/site-packages/pip/_vendor/distlib/util.py
+venv/Lib/site-packages/pip/_vendor/distlib/version.py
+venv/Lib/site-packages/pip/_vendor/distlib/wheel.py
+venv/Lib/site-packages/pip/_vendor/distro.py
+venv/Lib/site-packages/pip/_vendor/html5lib/
+venv/Lib/site-packages/pip/_vendor/ipaddress.py
+venv/Lib/site-packages/pip/_vendor/lockfile/
+venv/Lib/site-packages/pip/_vendor/ordereddict.py
+venv/Lib/site-packages/pip/_vendor/packaging/
+venv/Lib/site-packages/pip/_vendor/pkg_resources/
+venv/Lib/site-packages/pip/_vendor/progress/
+venv/Lib/site-packages/pip/_vendor/pyparsing.py
+venv/Lib/site-packages/pip/_vendor/re-vendor.py
+venv/Lib/site-packages/pip/_vendor/requests/
+venv/Lib/site-packages/pip/_vendor/retrying.py
+venv/Lib/site-packages/pip/_vendor/six.py
+venv/Lib/site-packages/pip/_vendor/webencodings/
+venv/Lib/site-packages/pip/basecommand.py
+venv/Lib/site-packages/pip/baseparser.py
+venv/Lib/site-packages/pip/cmdoptions.py
+venv/Lib/site-packages/pip/commands/
+venv/Lib/site-packages/pip/compat/
+venv/Lib/site-packages/pip/download.py
+venv/Lib/site-packages/pip/exceptions.py
+venv/Lib/site-packages/pip/index.py
+venv/Lib/site-packages/pip/locations.py
+venv/Lib/site-packages/pip/models/
+venv/Lib/site-packages/pip/operations/
+venv/Lib/site-packages/pip/pep425tags.py
+venv/Lib/site-packages/pip/req/
+venv/Lib/site-packages/pip/status_codes.py
+venv/Lib/site-packages/pip/utils/
+venv/Lib/site-packages/pip/vcs/
+venv/Lib/site-packages/pip/wheel.py
+venv/Lib/site-packages/pkg_resources/
+venv/Lib/site-packages/pytz-2017.3.dist-info/
+venv/Lib/site-packages/pytz/
+venv/Lib/site-packages/setuptools-38.4.0.dist-info/
+venv/Lib/site-packages/setuptools/__init__.py
+venv/Lib/site-packages/setuptools/__pycache__/
+venv/Lib/site-packages/setuptools/archive_util.py
+venv/Lib/site-packages/setuptools/build_meta.py
+venv/Lib/site-packages/setuptools/command/
+venv/Lib/site-packages/setuptools/config.py
+venv/Lib/site-packages/setuptools/dep_util.py
+venv/Lib/site-packages/setuptools/depends.py
+venv/Lib/site-packages/setuptools/dist.py
+venv/Lib/site-packages/setuptools/extension.py
+venv/Lib/site-packages/setuptools/extern/
+venv/Lib/site-packages/setuptools/glibc.py
+venv/Lib/site-packages/setuptools/glob.py
+venv/Lib/site-packages/setuptools/launch.py
+venv/Lib/site-packages/setuptools/lib2to3_ex.py
+venv/Lib/site-packages/setuptools/monkey.py
+venv/Lib/site-packages/setuptools/msvc.py
+venv/Lib/site-packages/setuptools/namespaces.py
+venv/Lib/site-packages/setuptools/package_index.py
+venv/Lib/site-packages/setuptools/pep425tags.py
+venv/Lib/site-packages/setuptools/py27compat.py
+venv/Lib/site-packages/setuptools/py31compat.py
+venv/Lib/site-packages/setuptools/py33compat.py
+venv/Lib/site-packages/setuptools/py36compat.py
+venv/Lib/site-packages/setuptools/sandbox.py
+venv/Lib/site-packages/setuptools/script (dev).tmpl
+venv/Lib/site-packages/setuptools/s
+cript.tmpl
+venv/Lib/site-packages/setuptools/site-patch.py
+venv/Lib/site-packages/setuptools/ssl_support.py
+venv/Lib/site-packages/setuptools/unicode_utils.py
+venv/Lib/site-packages/setuptools/version.py
+venv/Lib/site-packages/setuptools/wheel.py
+venv/Lib/site-packages/setuptools/windows_support.py
+venv/Lib/site-packages/wheel-0.30.0.dist-info/
+venv/Lib/site-packages/wheel/
+venv/Lib/site.py
+venv/Lib/sre_compile.py
+venv/Lib/sre_constants.py
+venv/Lib/sre_parse.py
+venv/Lib/stat.py
+venv/Lib/struct.py
+venv/Lib/tarfile.py
+venv/Lib/tempfile.py
+venv/Lib/token.py
+venv/Lib/tokenize.py
+venv/Lib/types.py
+venv/Lib/warnings.py
+venv/Lib/weakref.py
+venv/Scripts/__pycache__/
+venv/Scripts/activate
+venv/Scripts/activate.bat
+venv/Scripts/activate.ps1
+venv/Scripts/activate_this.py
+venv/Scripts/deactivate.bat
+venv/Scripts/django-admin.py
+venv/pip-selfcheck.json
+venv/tcl/
